@@ -39,6 +39,82 @@ advisories:
             componentType: gem
             componentLocation: /usr/lib/ruby/gems/3.2.0/specifications/puma-5.6.8.gemspec
             scanner: grype
+      - timestamp: 2024-12-17T00:55:07Z
+        type: pending-upstream-fix
+        data:
+          note: Automated update
+      - timestamp: 2024-12-17T00:58:42Z
+        type: pending-upstream-fix
+        data:
+          note: Automated update
+      - timestamp: 2024-12-17T00:59:53Z
+        type: pending-upstream-fix
+        data:
+          note: Automated update
+      - timestamp: 2024-12-17T01:01:27Z
+        type: pending-upstream-fix
+        data:
+          note: Automated update
+      - timestamp: 2024-12-17T01:19:10Z
+        type: pending-upstream-fix
+        data:
+          note: Automated update
+      - timestamp: 2024-12-17T02:13:15Z
+        type: pending-upstream-fix
+        data:
+          note: Automated update
+      - timestamp: 2024-12-17T02:13:58Z
+        type: pending-upstream-fix
+        data:
+          note: Automated update
+      - timestamp: 2024-12-17T02:14:12Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:18:03Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:23:24Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:24:46Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:26:36Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:28:36Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:41:29Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:43:31Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:44:32Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:47:15Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T12:57:27Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T13:27:16Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
 
   - id: CGA-vvw2-vc5h-cmrj
     aliases:
@@ -57,3 +133,79 @@ advisories:
             componentType: gem
             componentLocation: /usr/lib/ruby/gems/3.2.0/specifications/sinatra-2.2.4.gemspec
             scanner: grype
+      - timestamp: 2024-12-17T00:55:07Z
+        type: pending-upstream-fix
+        data:
+          note: Automated update
+      - timestamp: 2024-12-17T00:58:42Z
+        type: pending-upstream-fix
+        data:
+          note: Automated update
+      - timestamp: 2024-12-17T00:59:53Z
+        type: pending-upstream-fix
+        data:
+          note: Automated update
+      - timestamp: 2024-12-17T01:01:27Z
+        type: pending-upstream-fix
+        data:
+          note: Automated update
+      - timestamp: 2024-12-17T01:19:10Z
+        type: pending-upstream-fix
+        data:
+          note: Automated update
+      - timestamp: 2024-12-17T02:13:15Z
+        type: pending-upstream-fix
+        data:
+          note: Automated update
+      - timestamp: 2024-12-17T02:13:58Z
+        type: pending-upstream-fix
+        data:
+          note: Automated update
+      - timestamp: 2024-12-17T02:14:12Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:18:03Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:23:24Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:24:46Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:26:36Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:28:36Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:41:29Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:43:31Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:44:32Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T02:47:15Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T12:57:27Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
+      - timestamp: 2024-12-17T13:27:16Z
+        type: pending-upstream-fix
+        data:
+          note: Automated updateYEAHHHHHH
