@@ -31,6 +31,14 @@ advisories:
             componentType: go-module
             componentLocation: /usr/bin/kapp
             scanner: grype
+      - timestamp: 2025-03-18T01:21:06Z
+        type: pending-upstream-fix
+        data:
+          note: 'This vulnerability relates to a GitLab gem dependency. GitLab advises that maintainers should NOT upgrade dependency versions manually, as their automation would have already applied this in cases of simple version increments. If a dependency version has not yet been upgraded, there is usually a good reason. Additionally, past attempts to upgrade GitLab dependencies ahead of the upstream release have resulted in build issues. Deferring to upstream (GitLab) to address this CVE in a subsequent update. See: https://docs.gitlab.com/ee/development/dependencies.html.'
+      - timestamp: 2025-03-18T01:27:41Z
+        type: pending-upstream-fix
+        data:
+          note: 'This vulnerability relates to a GitLab gem dependency. GitLab advises that maintainers should NOT upgrade dependency versions manually, as their automation would have already applied this in cases of simple version increments. If a dependency version has not yet been upgraded, there is usually a good reason. Additionally, past attempts to upgrade GitLab dependencies ahead of the upstream release have resulted in build issues. Deferring to upstream (GitLab) to address this CVE in a subsequent update. See: https://docs.gitlab.com/ee/development/dependencies.html.'
 
   - id: CGA-3hvm-mf5g-45mx
     aliases:
