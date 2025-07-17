@@ -48,6 +48,16 @@ advisories:
         data:
           note: 'The latest compatible pillow version built using pyodide is 10.2.0: https://pyodide.org/en/stable/usage/packages-in-pyodide.html'
 
+  - id: CGA-6w49-q3qh-w2gc
+    aliases:
+      - CVE-2025-53643
+      - GHSA-9548-qrrj-x5pj
+    events:
+      - timestamp: 2025-07-17T22:15:38Z
+        type: pending-upstream-fix
+        data:
+          note: Bumping aiohttp to 3.12.14+ causes build failures. No upstream PRs currently address this incompatibility. Upstream maintainers must implement changes to accommodate aiohttp 3.12.14+ before this CVE can be resolved.
+
   - id: CGA-8v8f-2fpf-p7gj
     aliases:
       - CVE-2025-48379
