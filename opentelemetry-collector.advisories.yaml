@@ -278,6 +278,10 @@ advisories:
             componentType: go-module
             componentLocation: /usr/bin/otelcol
             scanner: grype
+      - timestamp: 2025-12-24T07:37:37Z
+        type: pending-upstream-fix
+        data:
+          note: The vulnerability affects github.com/expr-lang/expr v1.17.6, a transitive dependency brought in by opentelemetry-collector-contrib components (likely filterprocessor or similar processors). This dependency is not directly managed in the base collector go.mod and cannot be overridden via go/bump. Resolution requires upstream opentelemetry-collector-contrib maintainers to update their dependencies to expr v1.17.7+.
 
   - id: CGA-fh99-88p7-w543
     aliases:
